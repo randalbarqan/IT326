@@ -1,5 +1,5 @@
 # IT326 Diabetes Health Indicators
-#### About project
+## project  project motivations 
 
 
 By this project we aim to use the Diabetes Health Indicators Dataset to develop predictive models for diabetes risk assessment.
