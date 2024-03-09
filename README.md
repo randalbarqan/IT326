@@ -20,7 +20,7 @@ This dataset contains information about various attributes related to health and
 
 ## Attributes
 
-| Attributes name | Description | Values Used |
+| Attributes name | Description | Data type |
 |-----------------|-------------|-------------|
 | Diabetes_012    | Level of diabetes, 0 = no diabetes, 1 = prediabetes, 2 = diabetes | 0, 1, 2 |
 | HighBP          | Indicates whether the individual has high blood pressure, 0 = no high BP, 1 = high BP | Binary |
