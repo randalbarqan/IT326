@@ -3,6 +3,8 @@
 
 We have chosen to work on a dataset of health indicators for diabetes based on the prevalence of this disease. Diabetes is a chronic disease that leads to various health complications and economic problems, necessitating a strong response to address the disease. Additionally, we believe that our work on this dataset can have an impact on promoting public health. 
 
+## project goals:
+our goals for this project is to include data preprocessing, classification, and clustering. We aim to prepare the dataset for analysis through data preprocessing techniques. Next, we apply classification methods to categorize the data into groups. Additionally, clustering techniques for uncover patterns and relationships within the dataset. Through these processes, we aim to extract meaningful insights and findings from the data.
 
 ### Students Names:
 
